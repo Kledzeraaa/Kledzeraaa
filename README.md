@@ -1,11 +1,6 @@
-<div align="center">
-<br>
 -  Olá, me chamo Clayton.
-<br>
 -  Estou atualmente interessado em C/C++.
-<br>
 -  Estou cursando atualmente matemática aplicada e computacional.
-</div>
 
 <div align="center">
   <a href="https://github.com/Kledzeraaa">
