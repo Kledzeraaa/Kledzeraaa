@@ -10,8 +10,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kledz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Kledz-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
   
 <div> 
-  <a href="" target="_blank"><img src="" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/clayton-santos-001243227/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
