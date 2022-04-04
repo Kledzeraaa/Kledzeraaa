@@ -1,5 +1,5 @@
 -  Olá, me chamo Clayton.
--  Estou atualmente interessado em C/C++.
+-  Estou atualmente interessado em C/C++ e C#/.NET.
 -  Estou cursando atualmente matemática aplicada e computacional.
 
 <div align="center">
