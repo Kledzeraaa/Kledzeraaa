@@ -1,6 +1,8 @@
--  Olá, me chamo Clayton.
--  Estou atualmente interessado em C/C++ e C#/.NET.
--  Estou cursando atualmente matemática aplicada e computacional.
+-  Hi, my name is Clayton.
+-  I have 19 Years. 
+-  I am currently studying C/C++, C#/.NET and Data Structure
+-  I am currently studying applied and computational mathematics in UFS.
+-  Knowledge in Database, Data Structure, Object Oriented Programming (JAVA and C#), HTML, CSS and Hardware (Basic).
 
 <div align="center">
   <a href="https://github.com/Kledzeraaa">
