@@ -10,12 +10,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kledzeraaa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Kledz-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Kledz-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Kledz-c#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
-  
 ##
   
 <div align="center"> 
