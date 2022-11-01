@@ -1,8 +1,8 @@
 -  Hi, my name is Clayton.
--  I have 19 Years. 
--  I am currently studying C/C++, C#/.NET and Data Structure
--  I am currently studying applied and computational mathematics in UFS.
--  Knowledge in Database, Data Structure, Object Oriented Programming (JAVA and C#), HTML, CSS and Hardware (Basic).
+-  I have 20 Years. 
+-  I am currently studying to be a FullStack Development
+-  I am currently studying applied and computational mathematics in UFS(Brazil).
+-  Knowledge in Database, Data Structure, Object Oriented Programming (JAVA and C#), HTML, CSS and Hardware (Basic-Intermediary).
 
 <div align="center">
   <a href="https://github.com/Kledzeraaa">
